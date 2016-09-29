@@ -1,0 +1,1 @@
+{"C:\\Users\\Denis\\Desktop\\Site\\gulpfile.js":{"sha1":"7aeae263f9d1d2ff4c7926cc1036f5127b25e776","tasks":{"browser-sync":{"name":"browser-sync","dependencies":"styles scripts"},"styles":{"name":"styles","dependencies":""},"scripts":{"name":"scripts","dependencies":""},"watch":{"name":"watch","dependencies":""},"default":{"name":"default","dependencies":"browser-sync watch"}}}}
